@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A vue cli,support use your own template",
   "bin": {
-    "z": "bin/z"
+    "omiga": "bin/omiga"
   },
   "keywords": [
     "vue",
