@@ -1,0 +1,14 @@
+{
+  "view-design": {
+    "name": "view-design",
+    "version": "^4.0.0"
+  },
+  "element-ui": {
+    "name": "element-ui",
+    "version": "^2.11.0"
+  },
+  "none": {
+    "name": "",
+    "version": ""
+  }
+}
