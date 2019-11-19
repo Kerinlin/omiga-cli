@@ -2,4 +2,4 @@
 a cli of vue
 
 # Usage
-z create <project-name>
+z create project-name
