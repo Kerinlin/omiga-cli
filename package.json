@@ -1,17 +1,17 @@
 {
-  "name": "cli",
-  "version": "1.0.0",
+  "name": "o-cli",
+  "version": "0.1.0",
   "description": "A vue cli",
-  "main": "index.js",
   "bin": {
     "z": "bin/z"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "cli"
+  ],
+  "homepage": "https://github.com/Kerinlin/o-cli",
   "author": "kerinlin",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.0.1",
