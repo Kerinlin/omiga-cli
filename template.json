@@ -2,5 +2,13 @@
   "default": {
     "place": "kerinlin/simple-vue-template",
     "branch": ""
+  },
+  "iview-admin": {
+    "place": "iview/iview-admin",
+    "branch": ""
+  },
+  "element-admin": {
+    "place": "PanJiaChen/vue-admin-template",
+    "branch": ""
   }
 }

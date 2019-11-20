@@ -9,7 +9,7 @@
     "vue",
     "cli"
   ],
-  "homepage": "https://github.com/Kerinlin/o-cli",
+  "homepage": "https://github.com/Kerinlin/omiga-cli",
   "author": "kerinlin",
   "license": "MIT",
   "private":false,
