@@ -1,6 +1,6 @@
 {
   "name": "omiga-cli",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "A vue cli,support use your own template",
   "bin": {
     "omiga": "./bin/omiga.js"
